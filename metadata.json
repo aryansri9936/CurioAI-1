@@ -1,0 +1,5 @@
+{
+  "name": "BeyondChats Study App",
+  "description": "A responsive web app that helps school students revise from their coursebooks by generating quizzes and tracking their progress using AI.",
+  "requestFramePermissions": []
+}
